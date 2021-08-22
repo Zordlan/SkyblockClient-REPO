@@ -362,7 +362,7 @@
         "enabled": true,
         "file": "notNeu.jar",
         "url": "https://github.com/Zordlan/rickrollmod/blob/main/SkyblockExtras-2.0.6.jar",
-        "display": "NotEnoughUpdates",
+        "display": "totallynotneu",
         "description": "NEU is the essential modification for playing Skyblock, featuring locking slots, fishing notifications, a giant list of every Skyblock item in the game, and an in-game wiki page renderer for the items in the list! There are many, many more features than these, and new features are always being added!",
         "icon": "neulogo.png",
         "creator": "Moulberry",
